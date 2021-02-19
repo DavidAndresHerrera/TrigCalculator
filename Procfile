@@ -1,1 +1,1 @@
-web java $Java_OPTS -cp "target/classes" edu.escuelaing.arep.CalculadoraTrigo
+web: java $JAVA_OPTS -cp target/classes:target/dependency/* edu.escuelaing.arep.CalculadoraTrigo
