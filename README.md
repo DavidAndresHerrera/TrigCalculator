@@ -25,6 +25,12 @@ Para empaquetar y ejecutar el programa usando maven ingresa el siguiente comando
 Despues de empaquetado el programa y saber que esta corriendo de manera correcta ingresa el sigueitne comando
 > mvn test
 
+### Funcionamiento 
+
+para el funcionamiento utilice este link    https://trigcalulator.herokuapp.com/Calcular?operacion=sin&dato=3.1416 , tenga en cuenta que si quiere cambiar de operacion solo es cambiar el dato de operacion por tan o cos, y si quiere cambiar el valor solo es cambiar el que esta definido por otro
+
+>  [CircleCI](https://circleci.com/) : Integración contínua [![CircleCI](https://trigcalulator.herokuapp.com/Calcular?operacion=sin&dato=3.1416)
+
 ### Licencia
 GNU General Public License v3.0 
 
