@@ -29,7 +29,7 @@ Despues de empaquetado el programa y saber que esta corriendo de manera correcta
 
 para el funcionamiento utilice este link    https://trigcalulator.herokuapp.com/Calcular?operacion=sin&dato=3.1416 , tenga en cuenta que si quiere cambiar de operacion solo es cambiar el dato de operacion por tan o cos, y si quiere cambiar el valor solo es cambiar el que esta definido por otro
 
->  [CircleCI](https://circleci.com/) : Integración contínua [![CircleCI](https://trigcalulator.herokuapp.com/Calcular?operacion=sin&dato=3.1416)
+>  [CircleCI](https://circleci.com/) : Integración contínua [![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://trigcalulator.herokuapp.com/Calcular?operacion=sin&dato=3.1416)
 
 ### Licencia
 GNU General Public License v3.0 
